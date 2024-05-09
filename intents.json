@@ -1,0 +1,219 @@
+{
+  "intents": [
+    {
+      "tag": "About_Gurukula",
+      "patterns": [
+       "Gurukula",
+       "Gurukul",
+       "About Gurukul",
+       "About Gurukula"
+      ],
+      "responses": [
+        "Gurukula Kangri(Deemed to be University) was founded on March 4, 1902 by Swami Shraddhanandaji with the sole aim to revive the ancient Indian Gurukula System of education, on the bank of Ganges at a distance of about 6 km. from Hardwar and about 200 km. from Delhi. This institution was established with the objective of providing an indigenous alternative to Lord Macaulay’s education policy by imparting education in the areas of vedic literature, Indian philosophy, Indian culture, modern sciences and research.It is a deemed to be university fully funded by UGC/Govt. of India."
+      ]
+    },
+    {
+      "tag": "admission",
+      "patterns": [
+        "admission details",
+        "How can I apply for admission?",
+        "What are the admission requirements?"
+      ],
+      "responses": [
+        "For admission details, please visit our Website: <a href='https://www.gkv.ac.in/admissions/'>https://www.gkv.ac.in/admissions/</a>",
+        "You can find the admission details Here: <a href='https://www.gkv.ac.in/admissions/'>https://www.gkv.ac.in/admissions/</a>."
+      ]
+    },
+    {
+      "tag": "Fees",
+      "patterns": [
+        "Fees details"
+      ],
+      "responses": [
+        "For fees details, please visit our Website: <a href='https://www.gkv.ac.in/admissions-2/2022-23/fee-details/'>https://www.gkv.ac.in/admissions-2/2022-23/fee-details/</a>",
+        "You can find the fees details Here: <a href='https://www.gkv.ac.in/admissions-2/2022-23/fee-details/'>https://www.gkv.ac.in/admissions-2/2022-23/fee-details/</a>."
+      ]
+    },
+    
+    {
+      "tag": "Intro",
+      "patterns": [
+        "What is your name"
+      ],
+      "responses": [
+       "Hello! My name is Gurukula Kangri(Deemed to be University),Haridwar. How can I assist you today?"
+      ]
+    },
+    {
+      "tag": "greeting",
+      "patterns": [
+        "Hi",
+        "Hello"
+      ],
+      "responses": [
+        "Hello! Welcome to Gurukula Kangri(Deemed to be University),Haridwar. How can I assist you today?",
+        "Hi there! Welcome to Gurukula Kangri (Deemed to be University),Haridwar. How may I help you?"
+      ]
+    },
+    {
+      "tag": "goodbye",
+      "patterns": ["Bye", "See you later", "Goodbye"],
+      "responses": [
+        "See you later! Thanks for visiting Gurukula Kangri (Deemed to be University).",
+        "Have a great day! If you have any more questions, feel free to ask."
+      ]
+    },
+    {
+      "tag": "thanks",
+      "patterns": ["Thanks", "Thank you", "That's helpful", "Thank's a lot!"],
+      "responses": ["You're welcome!", "Happy to assist!", "My pleasure"]
+    },
+    
+    {
+      "tag": "UG Courses_Details",
+      "patterns": [
+        "UG Courses",
+        "UG Course",
+        "UG Courses Detail",
+        "UG Course Detail",
+        "UG Course Details",
+        "UG Courses in Gurukul Kangri",
+        "UG Courses in Gurukula Kangri",
+        "Under Graduate Courses in Gurukula Kangri",
+        "Under Graduate Courses"
+      ],
+      "responses": [
+        "Sure!, We offer a variety of Undergraduate Courses at Gurukula Kangri(deemed to be University),Haridwar. Here are some of our UG programs:[ 1.(B.A. Hon.) (Vidyalankar & Vedalankar),    2.Bachelor of Arts (B.A.),    3.Bachelor of Physical Education and Sports (BPES),    4.Bachelor of Physical Education (B.P.Ed.),    5.Bachelor of Science (Maths & Science Group) (B.Sc.),    6.Bachelor of Pharmacy (B.Pharma),    7.Bachelor in Business Administration (BBA),    8.Bachelor of Engineering & Technology (B.Tech.)]"
+      ]
+    },
+    {
+      "tag": "PG Courses_Details",
+      "patterns": [
+        "PG Courses",
+        "PG Courses detail",
+        "PG Courses in Gurukul Kangri",
+        "PG Courses in Gurukula Kangri",
+        "PG Course Details",
+        "PG Courses Details",
+        "Post Graduate Courses Details",
+        "Post Graduate Courses"
+      ],
+      "responses": [
+        "Sure!, We offer a variety of Post Graduate Courses at Gurukula Kangri(deemed to be University),Haridwar. Here are some of our PG programs:[ 1.(M.A.) Veda,    2.(M.A.) Sanskrit,    3.(M.A.) Philosophy,    4.(M.A.) Yogic Science,    5.(M.A.) Ancient Indian History, Culture & Archaeology,    6.(M.A.) Jyotir Vigyan & Vedic Karmkand,    7.(M.A.) English,    8.(M.A.) Hindi,    9.(M.A.) Psychology,    10.(M.Sc.) Physics,    11.(M.Sc.) Chemistry,    12.(M.Sc.) Maths,    13.(M.Sc.) Environmental Science,    14.(M.Sc.) Microbiology,    15.(M.B.A.),    16. M.B.A. (B.E.)    17. M.B.A. (B.F.),    18. (M.C.A.),    19. (M.A.) Extension Education,    20.(M.P.Ed.)]"
+      ]
+    },
+    {
+      "tag": "Ph.D. Courses_Details",
+      "patterns": [
+        "ph.d. Courses",
+        "Ph.D. Courses",
+        "ph.d. Course",
+        "ph.d. Courses Details",
+        "Ph.D. Course Detail",
+        "Doctor of Philosophy Courses"
+      ],
+      "responses": [
+       "Sure!, We offer a variety of Ph.D. Courses at Gurukula Kangri(deemed to be University),Haridwar. Here are some of our Ph.D. programs: [ 1.Ancient Indian History Culture and Archaeology,    2.Botany,    3.Chemistry,    4.Computer Science,    5.English,    6.Environmental Science,    7.Hindi Literature,    8.Human Consciousness and Yogic Science,    9.Management,    10.Mathematics,    11.Microbiology,    12.Philosophy,    13.Physics,    14.Psychology,    15.Physical Education & Sports,    16.Sanskrit Literature,    17.Vedic Literature,    18.Zoology]"
+      ]
+    },
+    {
+      "tag": "Diploma / Certificate",
+      "patterns": [
+        "Diploma Courses",
+        "Diploma Courses Details",
+        "Diploma Course Details",
+        "Diploma Course Detail",
+        "Diploma Courses in Gurukula Kangri",
+        "Diploma Courses in Gurukul Kangri",
+        "Certificate Courses",
+        "Certificate Courses Details",
+        "Certificate Course Details",
+        "Certificate Course Detail",
+        "Certificate Courses in Gurukula Kangri",
+        "Certificate Courses in Gurukul Kangri",
+        "Diploma / Certificate Courses Details"
+      ],
+      "responses":[
+        "Sure!, We offer a variety of Diploma / Certificate Courses at Gurukula Kangri(deemed to be University),Haridwar. Here are some of our Diploma / Certificate programs: [ 1.(P.G.) Diploma in Hindi,    2.Journalism P.G. Diploma in Yogic Science,    3.Certificate Course in Yoga,    4.Vedic Paurohitya-Karmkand (One Year),    5.Certificate Course in Art and Happiness,    6.(D. Pharm.) (Two-year diploma course),    7.Certificate Course in Sales Management]"
+      ]
+    },
+    {
+      "tag": "timing",
+      "patterns": [
+        "What are the college timings?",
+        "When does the college open/close?",
+        "Can you tell me the operating hours of the college?"
+      ],
+      "responses": [
+        "Gurukula Kangri(Deemed to be University),Haridwar operates from [opening time] to [closing time] on weekdays. Our office hours may vary, so it's best to check our website or contact us directly for specific timings."
+      ]
+    },
+    {
+      "tag": "location",
+      "patterns": [
+        "Where is the college located?",
+        "What is the address of the college?",
+        "Can you give me directions to the college?"
+      ],
+      "responses": [
+        "Gurukula Kangri(Deemed to be University) is located in Haridwar, Uttarakhand, India. The address is [college address]. You can find detailed directions on our website."
+      ]
+    },
+    {
+      "tag": "Kanya Dehradun_Details",
+      "patterns":[
+        "Kanya Dehradun Contact",
+        "Kanya Gurukula Dehradun Contact Details",
+        "Dehradun Kanya Gurukul Contact Details"
+      ],
+      "responses":[ "You can contact Kanya Gurukula Dehradun Office by phone at [0135-27496377]"
+    ]
+    },
+    {
+      "tag": "Examination_Details",
+      "patterns":[
+        "Examination Contact",
+        "Examination Contact Details",
+        "Examination Center Details"
+      ],
+      "responses":[ "You can contact Gurukula Kangri(Deemed to be University),Haridwar Examination Center by phone at [01334-601100] or [7300761349]"
+    ]
+    },
+    { 
+      "tag":"Registrar Office",
+      "patterns":[
+      "Registrar Office Contact",
+      "Registrar Contact details",
+      "Registrar details"
+      ],
+      "responses":[
+        "You can contact Gurukula Kangri(Deemed to be University),Haridwar Registrar Office by phone at [+91-7300761138] or by email at [registrar@gkv.ac.in]"
+
+      ]
+
+    },
+    {
+      "tag": "contact",
+      "patterns": [
+        "Contact Details",
+        "How can I contact the college?",
+        "What is the contact number/email of the college?",
+        "Can you provide me with the college's contact information?"
+      ],
+      "responses": [
+        "You can contact Dr. Rakesh Bhutiani Central Public Information Officer Gurukula Kangri (Deemed to be University) Haridwar. by phone at [+91-7300761207] or by email at [rti@gkv.ac.in]. Our team will be happy to assist you with any inquiries."
+      ]
+    },
+    {
+      "tag": "Faculties",
+      "patterns": [
+        "faculty",
+        "faculties",
+        "How many faculty in gurukul kangri"
+      ],
+      "responses": [
+        "Certainly! Gurukula Kangri(Deemed to be University),Haridwar has several faculties covering a wide range of disciplines. Some of the main faculties include : [ 1.Faculty of Oriental Studies,  2.Faculty of Humanities,  3.Faculty of Sciences,  4.Faculty of Life Sciences,  5.Faculty of Management Studies,  6.Faculty of Engineering & Technology,  7.Faculty of Medical Science & Health,  8.Faculty of Yoga and Physical Education,  9.Faculty of Education and Training]" 
+      ]
+    }
+  ]
+}
